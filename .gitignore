@@ -1,0 +1,5 @@
+# Package Managers
+bower_components/
+
+# Local test files
+test.html
